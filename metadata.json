@@ -1,0 +1,6 @@
+{
+  "name": "Resona - Vocal Feminization & Masculinization Training",
+  "description": "Real-time AI voice training app analyzing resonance, pitch, and tone with live spectrographs, gender-affirming vocal methods, daily drills, gamified challenges, and personalized AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
